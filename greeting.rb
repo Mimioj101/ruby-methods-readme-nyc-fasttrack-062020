@@ -4,24 +4,11 @@ def greeting
 end
 
 greeting
+greeting
+greeting
+greeting
+greeting
 
-
-# Now your program actually executed the program. Update the code again to
-# entirely read:
-
-# File: `greeting.rb`
-
-# ```ruby
-# def greeting
-#   puts "Hello World"
-# end
-
-# greeting
-# greeting
-# greeting
-# greeting
-# greeting
-# ```
 
 # Save your file and run it with `ruby greeting.rb`. You'll see:
 
