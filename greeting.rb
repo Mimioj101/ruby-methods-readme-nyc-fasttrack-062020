@@ -3,20 +3,10 @@ def greeting
   puts "Hello World"
 end
 
+greeting
 
 
 
-# Save your file and run it with `ruby greeting.rb`. You'll see:
-
-# ```bash
-# $ ruby greeting.rb
-# $
-# ```
-
-# You'll notice that when you run your program, nothing happens. Your program
-# successfully defined the method but it never executed it. Just because you built
-# a machine doesn't mean that you turned it on. Update your `greeting.rb` to
-# entirely read:
 
 # File: `greeting.rb`
 
