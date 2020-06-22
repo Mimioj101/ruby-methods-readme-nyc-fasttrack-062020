@@ -6,26 +6,6 @@ end
 greeting
 
 
-
-
-# File: `greeting.rb`
-
-# ```ruby
-# def greeting
-#   puts "Hello World"
-# end
-
-# greeting
-# ```
-
-# Save your file and run it with `ruby greeting.rb`. You'll see:
-
-# ```bash
-# $ ruby greeting.rb
-# Hello World
-# $
-# ```
-
 # Now your program actually executed the program. Update the code again to
 # entirely read:
 
